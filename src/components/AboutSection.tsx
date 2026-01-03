@@ -69,7 +69,7 @@ const AboutSection = () => {
                   <span className="text-2xl font-bold text-primary-foreground">SK</span>
                 </div> */}
 
-                <div className="w-32 h-32 mx-auto mb-6">
+                <div className="w-31 h-31 mx-auto mb-6">
   <img
     src="/driver.png"
     alt="Driver at SK Tours & Travels"
@@ -78,8 +78,8 @@ const AboutSection = () => {
 </div>
 
 
-                <h3 className="text-2xl font-bold text-foreground mb-2">SK Tours & Travels</h3>
-                <p className="text-muted-foreground mb-4">Professional Travel Service</p>
+                <h3 className="text-2xl font-bold text-foreground mb-2">Abrar Shaikh</h3>
+                <p className="text-muted-foreground mb-4">Professional Driver & Travel Partner</p>
                 <div className="flex justify-center gap-4 text-sm">
                   <div className="text-center">
                     <div className="text-2xl font-bold text-primary">5+</div>
