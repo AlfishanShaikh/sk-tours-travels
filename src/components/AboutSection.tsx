@@ -70,12 +70,12 @@ const AboutSection = () => {
                 </div> */}
 
                 <div className="w-31 h-31 mx-auto mb-6">
-  <img
-    src="/driver.png"
-    alt="Driver at SK Tours & Travels"
-    className="w-full h-full rounded-full object-cover border-4 border-primary shadow-md"
-  />
-</div>
+                  <img
+                      src="/driver.png"
+                      alt="Driver at SK Tours & Travels"
+                      className="w-full h-full rounded-full object-cover border-4 border-primary shadow-md"
+                    />
+                  </div>
 
 
                 <h3 className="text-2xl font-bold text-foreground mb-2">Abrar Shaikh</h3>
