@@ -38,7 +38,7 @@ const AboutSection = () => {
             </p>
             <p className="text-muted-foreground text-lg leading-relaxed mb-8">
               Whether you're traveling for business, family trips, or tourism, we ensure 
-              every journey is smooth and enjoyable. Our well-maintained Tata Altroz and 
+              every journey is smooth and enjoyable. Our well-maintained Toyota Etios and 
               commitment to punctuality make us the preferred choice for hundreds of 
               satisfied customers.
             </p>

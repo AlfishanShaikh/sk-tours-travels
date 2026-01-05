@@ -105,7 +105,7 @@ Date: ${formData.date}`;
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground">Service Area</p>
-                  <p className="text-lg font-semibold text-foreground">Aurangabad & Maharashtra</p>
+                  <p className="text-lg font-semibold text-foreground">Chhatrapati Sambhajinagar (Aurangabad) & Maharashtra</p>
                 </div>
               </div>
 

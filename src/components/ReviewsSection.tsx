@@ -6,7 +6,7 @@ const ReviewsSection = () => {
       name: "Rajesh Kumar",
       location: "Mumbai",
       rating: 5,
-      text: "Excellent service! The driver was very professional and the car was spotlessly clean. Made my Aurangabad to Mumbai journey very comfortable.",
+      text: "Excellent service! The driver was very professional and the car was spotlessly clean. Made my Chhatrapati Sambhajinagar (Aurangabad) to Mumbai journey very comfortable.",
     },
     {
       name: "Priya Sharma",
@@ -18,13 +18,13 @@ const ReviewsSection = () => {
       name: "Amit Patel",
       location: "Nashik",
       rating: 5,
-      text: "Safe driving and affordable pricing. The Tata Altroz was very comfortable for our 6-hour journey. Will definitely book again.",
+      text: "Safe driving and affordable pricing. The Toyota Etios was very comfortable for our 6-hour journey. Will definitely book again.",
     },
     {
       name: "Sneha Deshmukh",
-      location: "Aurangabad",
+      location: "Chhatrapati Sambhajinagar (Aurangabad)",
       rating: 5,
-      text: "Best travel service in Aurangabad! The driver is friendly and knows all the routes well. Always my first choice for outstation trips.",
+      text: "Best travel service in Chhatrapati Sambhajinagar (Aurangabad)! The driver is friendly and knows all the routes well. Always my first choice for outstation trips.",
     },
     {
       name: "Mohammed Shaikh",

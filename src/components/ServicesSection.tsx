@@ -6,7 +6,7 @@ const ServicesSection = () => {
       icon: MapPin,
       title: "Long-Distance Trips",
       description:
-        "Comfortable travel across cities and states. Popular routes include Aurangabad to Mumbai, Aurangabad to Pune, and many more.",
+        "Comfortable travel across cities and states. Popular routes include Chhatrapati Sambhajinagar (Aurangabad) to Mumbai, Chhatrapati Sambhajinagar (Aurangabad) to Pune, and many more.",
     },
     {
       icon: ArrowLeftRight,
@@ -77,11 +77,11 @@ const ServicesSection = () => {
           </h3>
           <div className="flex flex-wrap justify-center gap-4">
             {[
-              "Aurangabad → Mumbai",
-              "Aurangabad → Pune",
+              "Chhatrapati Sambhajinagar (Aurangabad) → Mumbai",
+              "Chhatrapati Sambhajinagar (Aurangabad) → Pune",
               "Mumbai → Nashik",
               "Pune → Shirdi",
-              "Aurangabad → Nagpur",
+              "Chhatrapati Sambhajinagar (Aurangabad) → Nagpur",
               "Mumbai → Lonavala",
             ].map((route, index) => (
               <span
