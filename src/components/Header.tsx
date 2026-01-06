@@ -10,6 +10,7 @@ const Header = () => {
     { href: "#about", label: "About" },
     { href: "#services", label: "Services" },
     { href: "#car", label: "Car" },
+    { href: "#car-options", label: "Fleet" },
     { href: "#reviews", label: "Reviews" },
     { href: "#why-us", label: "Why Choose Us" },
     { href: "#contact", label: "Contact" },
